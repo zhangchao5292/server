@@ -1,5 +1,0 @@
-server:
-  port: 8002
-spring:
-  application:
-    name: mcroservice-order  #服务名
