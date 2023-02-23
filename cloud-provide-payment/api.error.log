@@ -1,0 +1,6 @@
+2023-02-23 10:47:10.242 ERROR 14540 --- [main] com.alibaba.druid.pool.DruidDataSource   : testWhileIdle is true, validationQuery not set
+2023-02-23 10:57:47.185 ERROR 14856 --- [main] com.alibaba.druid.pool.DruidDataSource   : testWhileIdle is true, validationQuery not set
+2023-02-23 10:59:28.295 ERROR 16960 --- [main] com.alibaba.druid.pool.DruidDataSource   : testWhileIdle is true, validationQuery not set
+2023-02-23 11:06:32.516 ERROR 16320 --- [main] com.alibaba.druid.pool.DruidDataSource   : testWhileIdle is true, validationQuery not set
+2023-02-23 11:25:38.997 ERROR 12920 --- [main] com.alibaba.druid.pool.DruidDataSource   : testWhileIdle is true, validationQuery not set
+2023-02-23 11:28:29.347 ERROR 11512 --- [main] com.alibaba.druid.pool.DruidDataSource   : testWhileIdle is true, validationQuery not set
